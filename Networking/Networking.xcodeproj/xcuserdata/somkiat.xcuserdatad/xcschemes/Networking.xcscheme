@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A2DAC7EA1E5D4B2D0081C832"
-               BuildableName = "Demo01.app"
-               BlueprintName = "Demo01"
-               ReferencedContainer = "container:Demo01.xcodeproj">
+               BlueprintIdentifier = "A2396AFA1E5E710900A0A983"
+               BuildableName = "Networking.app"
+               BlueprintName = "Networking"
+               ReferencedContainer = "container:Networking.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,37 +26,36 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      codeCoverageEnabled = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A2DAC7FE1E5D4B2D0081C832"
-               BuildableName = "Demo01Tests.xctest"
-               BlueprintName = "Demo01Tests"
-               ReferencedContainer = "container:Demo01.xcodeproj">
+               BlueprintIdentifier = "A2396B0E1E5E710900A0A983"
+               BuildableName = "NetworkingTests.xctest"
+               BlueprintName = "NetworkingTests"
+               ReferencedContainer = "container:Networking.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A2DAC8091E5D4B2D0081C832"
-               BuildableName = "Demo01UITests.xctest"
-               BlueprintName = "Demo01UITests"
-               ReferencedContainer = "container:Demo01.xcodeproj">
+               BlueprintIdentifier = "A2396B191E5E710900A0A983"
+               BuildableName = "NetworkingUITests.xctest"
+               BlueprintName = "NetworkingUITests"
+               ReferencedContainer = "container:Networking.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A2DAC7EA1E5D4B2D0081C832"
-            BuildableName = "Demo01.app"
-            BlueprintName = "Demo01"
-            ReferencedContainer = "container:Demo01.xcodeproj">
+            BlueprintIdentifier = "A2396AFA1E5E710900A0A983"
+            BuildableName = "Networking.app"
+            BlueprintName = "Networking"
+            ReferencedContainer = "container:Networking.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A2DAC7EA1E5D4B2D0081C832"
-            BuildableName = "Demo01.app"
-            BlueprintName = "Demo01"
-            ReferencedContainer = "container:Demo01.xcodeproj">
+            BlueprintIdentifier = "A2396AFA1E5E710900A0A983"
+            BuildableName = "Networking.app"
+            BlueprintName = "Networking"
+            ReferencedContainer = "container:Networking.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A2DAC7EA1E5D4B2D0081C832"
-            BuildableName = "Demo01.app"
-            BlueprintName = "Demo01"
-            ReferencedContainer = "container:Demo01.xcodeproj">
+            BlueprintIdentifier = "A2396AFA1E5E710900A0A983"
+            BuildableName = "Networking.app"
+            BlueprintName = "Networking"
+            ReferencedContainer = "container:Networking.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -9,7 +9,6 @@ class FizzBuzzTest: XCTestCase {
         XCTAssertEqual("1", fizzBuzz.say(number: 1))
         XCTAssertEqual("2", fizzBuzz.say(number: 2))
         XCTAssertEqual("4", fizzBuzz.say(number: 4))
-        XCTAssertEqual("7", fizzBuzz.say(number: 7))
         XCTAssertEqual("8", fizzBuzz.say(number: 8))
     }
 
@@ -28,6 +27,11 @@ class FizzBuzzTest: XCTestCase {
     func test15_should_say_FIZZBUZZ() {
         XCTAssertEqual("FIZZBUZZ", fizzBuzz.say(number: 15))
         XCTAssertEqual("FIZZBUZZ", fizzBuzz.say(number: 30))
+    }
+
+    func test_should_say_BBTV() {
+        XCTAssertEqual("BBTV", fizzBuzz.say(number: 7))
+        XCTAssertEqual("BBTV", fizzBuzz.say(number: 14))
     }
 
 }

@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		A2A3F1931E5E872400E26D4C /* NewWay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A3F1921E5E872400E26D4C /* NewWay.swift */; };
+		A2A3F1951E5EA44C00E26D4C /* RangeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A3F1941E5EA44C00E26D4C /* RangeTest.swift */; };
+		A2A3F1971E5EA57C00E26D4C /* Range.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A3F1961E5EA57C00E26D4C /* Range.swift */; };
 		A2DAC7EF1E5D4B2D0081C832 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2DAC7EE1E5D4B2D0081C832 /* AppDelegate.swift */; };
 		A2DAC7F11E5D4B2D0081C832 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2DAC7F01E5D4B2D0081C832 /* ViewController.swift */; };
 		A2DAC7F41E5D4B2D0081C832 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2DAC7F21E5D4B2D0081C832 /* Main.storyboard */; };
@@ -41,6 +43,8 @@
 
 /* Begin PBXFileReference section */
 		A2A3F1921E5E872400E26D4C /* NewWay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewWay.swift; sourceTree = "<group>"; };
+		A2A3F1941E5EA44C00E26D4C /* RangeTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RangeTest.swift; sourceTree = "<group>"; };
+		A2A3F1961E5EA57C00E26D4C /* Range.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Range.swift; sourceTree = "<group>"; };
 		A2DAC7EB1E5D4B2D0081C832 /* Demo01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2DAC7EE1E5D4B2D0081C832 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2DAC7F01E5D4B2D0081C832 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -119,6 +123,7 @@
 				A2DAC81C1E5D4D6E0081C832 /* Hello.swift */,
 				A2DAC8201E5D52C30081C832 /* FizzBuzz.swift */,
 				A2A3F1921E5E872400E26D4C /* NewWay.swift */,
+				A2A3F1961E5EA57C00E26D4C /* Range.swift */,
 			);
 			path = Demo01;
 			sourceTree = "<group>";
@@ -130,6 +135,7 @@
 				A2DAC8051E5D4B2D0081C832 /* Info.plist */,
 				A2DAC81E1E5D52320081C832 /* FizzBuzzTest.swift */,
 				A2DAC8261E5D93BA0081C832 /* FBControllerTest.swift */,
+				A2A3F1941E5EA44C00E26D4C /* RangeTest.swift */,
 			);
 			path = Demo01Tests;
 			sourceTree = "<group>";
@@ -311,6 +317,7 @@
 				A2DAC7EF1E5D4B2D0081C832 /* AppDelegate.swift in Sources */,
 				A2DAC8251E5D8B9D0081C832 /* FizzBuzzController.swift in Sources */,
 				A2DAC8211E5D52C30081C832 /* FizzBuzz.swift in Sources */,
+				A2A3F1971E5EA57C00E26D4C /* Range.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,6 +328,7 @@
 				A2DAC8041E5D4B2D0081C832 /* Demo01Tests.swift in Sources */,
 				A2DAC8271E5D93BA0081C832 /* FBControllerTest.swift in Sources */,
 				A2DAC81F1E5D52320081C832 /* FizzBuzzTest.swift in Sources */,
+				A2A3F1951E5EA44C00E26D4C /* RangeTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
